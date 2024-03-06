@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.list {
+  padding: 10px;
+  height: calc(100vh - 20px);
+}
